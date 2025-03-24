@@ -49,8 +49,8 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:120px; height:30px"></a>
-  <a href="mailto:himanshu@example.com"><img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red" style="width:100px; height:30px"></a>
+  <a href="https://www.linkedin.com/in/himanshu-dev-and-devops"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:120px; height:30px"></a>
+  <a href="mailto:09himanshusah@gmail.com"><img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red" style="width:100px; height:30px"></a>
 </p>
 
 ---
