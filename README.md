@@ -2,7 +2,7 @@
 
 # Hi, I'm Himanshu Sah 👋
 
-### DevOps Engineer & Backend Developer | Cloud-Native Systems | Microservices
+### DevOps & Backend Engineer | Cloud-Native Systems | Microservices
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/09himanshu)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:09himanshusah@gmail.com)
